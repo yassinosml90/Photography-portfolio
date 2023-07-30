@@ -296,7 +296,9 @@ header .social-links a:hover{
     height: 200px;
     width: 300px;
     margin-top: 20px;
+    transition: .4s;
 }
+
 .pic1{
     background: url(images/port-1.jpg) center no-repeat;
     background-size: cover;
